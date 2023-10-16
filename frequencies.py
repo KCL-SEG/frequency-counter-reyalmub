@@ -9,4 +9,3 @@ def frequencies(items):
             frequencies[str(val)] += 1
     return frequencies
     
-print(frequencies([1,1,1,2,2]))
